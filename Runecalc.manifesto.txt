@@ -1,0 +1,16 @@
+
+						Runic Calculator
+
+The Rune Calc Manifesto is a file that explains briefly the history of the Runic Calculator Idea and what inspired
+its creation. A Magus by the name of Scrilon once came upon a system so powerful that it needed to be hidden not 
+only behind the blinds of Hebrew, but also those of the Runic Script. More specifically, the potent and vibratory 
+system of the Elder Futhark. The Elder Futhark consists of 24 Glyphs that are arranged in a specific order. This 
+order is believed to have arisen due to the innate pattern of manifestation that begins between Glyphs 12 and 13
+(Jera and Eihwaz). A sort of Right Cross is formed between these Runes. Jera represents the horizontal while 
+eihwaz represents the vertical. In Union, they rotate around their central axis. Due to their shape, they begin to
+resemble that of a Grand Solar Wheel, riding high above the skys, reflected on the Moon's face. And thus, if Runes
+may be spied for their sunny outer qualities, so too can they be used for their internalized mathematical qualities.
+It is for this reason that the magus wills this calculator into being. For those who break this code, the true heart 
+of the magus is to bring that which is within, without. 
+
+						ANUR LIT NYER. 
