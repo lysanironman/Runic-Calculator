@@ -1,24 +1,4 @@
-var ᚠ=1;
-var ᚢ=2;
-var ᚦ=3;
-var ᚨ=4;
-var ᚱ=5;
-var ᚲ=6;
-var ᚷ=7;
-var ᚹ=8;
-var ᚺ=9;
-var ᚾ=10;
-var ᛁ=11;
-var ᛃ=12;
-var ᛇ=13;
-var ᛈ=14;
-var ᛉ=15;
-var ᛊ=16;
-var ᛏ=17;
-var ᛒ=18;
-var ᛖ=19;
-var ᛗ=20;
-var ᛚ=21;
-var ᛜ=22;
-var ᛞ=23;
-var ᛟ=24;
+var elderFuthark =[ᚠ=1,ᚢ=2,ᚦ=3,ᚨ=4,ᚱ=5,ᚲ=6,ᚷ=7,ᚹ=8,ᚺ=9,ᚾ=10,ᛁ=11,ᛃ=12,ᛇ=13,ᛈ=14,ᛉ=15,ᛊ=16,ᛏ=17,ᛒ=18,ᛖ=19,ᛗ=20,ᛚ=21,ᛜ=22,ᛞ=23,ᛟ=24];
+var runeTally = 0;
+
+console.log(elderFuthark);
