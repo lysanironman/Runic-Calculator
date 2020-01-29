@@ -10,6 +10,8 @@ input {
     width:20px;
     padding: 8px 4px;
     margin: 10px 8px;
+    color: rgb(92, 21, 3);
+    background-color: #a89b82;
 }
 #solution {
     width:400px;
