@@ -14,8 +14,16 @@ input {
     background-color: #a89b82;
 }
 #solution {
-    width:400px;
-    color: grey;
+    width:300px;
+    height:100px;
+    color: rgb(92, 21, 3);
     text-align: center;
+    
 
+    
+
+}
+#final {
+    padding: 0 10px 0 10px;
+    width:100px;
 }

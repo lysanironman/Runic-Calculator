@@ -34,14 +34,15 @@
 <input type="button" value="ᛞ" onClick="document.calculator.ans.value+='23+'">
 <input type="button" value="ᛟ" onClick="document.calculator.ans.value+='24+'"><br>
 <input type="button" value="-" onClick="document.calculator.ans.value+='-'">
-<input type="button" value="+" onClick="document.calculator.ans.value+='+'"><br>
+<input type="button" value="+" onClick="document.calculator.ans.value+='+'">
 <input type="button" value="*" onClick="document.calculator.ans.value+='*'">
-<input type="button" value="/" onClick="document.calculator.ans.value+='/'">
+<input type="button" value="/" onClick="document.calculator.ans.value+='/'"><br>
 
-<input type="button" value="0" onClick="document.calculator.ans.value+='0'">
-<input type="reset" value="Reset">
-<input type="button" value="=" onClick="document.calculator.ans.value=eval(document.calculator.ans.value)">
-<br>Subtract the last '+' and click '='<br><input id="solution" type="textfield" name="ans" value="">
+<input id=final type="button" value="Close" onClick="document.calculator.ans.value+='0'">
+<input id=final type="button" value="SUBMIT" onClick="document.calculator.ans.value=eval(document.calculator.ans.value)">
+<input id=final type="reset" value="Reset">
+
+<br>First, close your inquiry, then SUBMIT!<br><input id="solution" type="textfield" name="ans" value=""><br>
 </form>
 </body>
 </html>
